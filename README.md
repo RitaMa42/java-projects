@@ -21,5 +21,5 @@ This program generates ASCII-based geometric patterns such as rectangles, triang
 
 This interactive game simulates the classic Rock–Paper–Scissors match between the user and a computer opponent.  
 The program’s modular design separates user interaction and computer logic into two files:  
-`RockPaperScissors.java` manages input, scoring, and round progression, while `ComputerOpponent.java` controls the computer’s randomized or test-driven move generation. Together, they demonstrate principles of modular design, randomization**, and decision-making algorithms in a user-interactive console program.
+`RockPaperScissors.java` manages input, scoring, and round progression, while `ComputerOpponent.java` controls the computer’s randomized or test-driven move generation. Together, they demonstrate principles of modular design, randomization, and decision-making algorithms in a user-interactive console program.
 
