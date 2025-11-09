@@ -6,7 +6,7 @@ A structured collection of Java console applications developed through object-or
 
 **Project Included**
 ## Stat Analysis
-**Code:** [Stat.java](./Stat/Stat.java)  
+**Code:** [Stat.java](.Stat.java)  
 
 This program performs key statistical computations:mean, median, mode, minimum, and maximum on numerical datasets.  
 It demonstrates algorithmic thinking, array manipulation, iterative logic, and method decomposition.  
