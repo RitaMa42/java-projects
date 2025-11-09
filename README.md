@@ -11,3 +11,4 @@ A structured collection of Java console applications developed through object-or
 This program performs key statistical computations:mean, median, mode, minimum, and maximum on numerical datasets.  
 It demonstrates algorithmic thinking, array manipulation, iterative logic, and method decomposition.  
 The project highlights how structured program flow can be used to transform raw data into meaningful insights.
+
