@@ -5,5 +5,14 @@ A structured collection of Java console applications developed through object-or
 ---
 
 **Project Included**
-1. Circle Geometry
-This program models and compares geometric circles using object-oriented design principles. It defines a Circle class with constructors, encapsulated fields, and overloaded methods to calculate area, diameter, equality, and intersection between circles. The project emphasizes modular structure, abstraction, and class-based design, demonstrating the ability to translate mathematical relationships into well-organized code.
+## Stat Analysis
+**Code:** [Stat.java](./Stat/Stat.java)  
+
+This program performs key statistical computations:mean, median, mode, minimum, and maximum on numerical datasets.  
+It demonstrates algorithmic thinking, array manipulation, iterative logic, and method decomposition.  
+The project highlights how structured program flow can be used to transform raw data into meaningful insights.
+
+**Run the program:**
+```bash
+javac Stat/Stat.java
+java Stat.Stat
