@@ -23,3 +23,6 @@ This interactive game simulates the classic Rock–Paper–Scissors match betwee
 The program’s modular design separates user interaction and computer logic into two files:  
 `RockPaperScissors.java` manages input, scoring, and round progression, while `ComputerOpponent.java` controls the computer’s randomized or test-driven move generation. Together, they demonstrate principles of modular design, randomization, and decision-making algorithms in a user-interactive console program.
 
+### String Fun
+**Code:** [StringFun.java](StringFun.java)
+This program offers an interactive toolkit for string manipulation, supporting reverse, replace-first, replace-last, remove-all, and remove-kth operations. It emphasizes precise control over text through iterative algorithms, character-level indexing, and robust input handling (e.g., graceful messages for “not found,” empty input, or invalid k). The design factors functionality into small helper methods—such as first/last index search, k-th occurrence removal, and safe parsing—to keep logic modular, testable, and easy to extend.
